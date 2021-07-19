@@ -1,7 +1,13 @@
 h1 {
-    color: mediumblue;
+    color: blue;
 }
-p {
+
+#class_chicken {
+color: darkred;
+}
+#class_beef {
     color: darkred;
-    background-color: lightsalmon;
+}
+#class_sushi {
+    color: darkred;
 }
