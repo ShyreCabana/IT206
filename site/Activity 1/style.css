@@ -37,6 +37,32 @@ background-color: chocolate;
         background-color: black;
     }
     .col-lg-4col-md-6_col-sm-12 {
+        width: 75%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .col-lg-4col-md-6_col-sm-12 {
+        margin: 80px;
+        float: left;
+        border: 2px solid green;
+        padding: 20px;
+        background-color: black;
+    }
+    .col-lg-4col-md-6_col-sm-12 {
+        width: 50%;
+    }
+}
+
+@media (max-width: 767px) {
+    .col-lg-4col-md-6_col-sm-12 {
+        margin: 80px;
+        float: left;
+        border: 2px solid green;
+        padding: 20px;
+        background-color: black;
+    }
+    .col-lg-4col-md-6_col-sm-12 {
         width: 25%;
     }
 }
