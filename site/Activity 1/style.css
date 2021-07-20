@@ -14,15 +14,12 @@ background-color: chocolate;
 .content {
     font-size: larger 25%;
     font-style: italic;
+    border: 1 px solid salmon;
     color: white
     
 }
 
-body {
-    border: 5 px solid green;
-    background-color: black;
-}
-/*
+
 .col-lg-4col-md-6col-sm-12 {
     width: 400 px;
     margin: 80 px;
@@ -37,4 +34,3 @@ body {
     padding: 20px;
     background-color: black;
 }
-\*
