@@ -14,12 +14,15 @@ background-color: chocolate;
 .content {
     font-size: larger 25%;
     font-style: italic;
-    border: 1 px solid salmon;
     color: white
     
 }
-
-
+div {
+    border:3 px solid firebrick;
+    width: 300 px;
+    margin: 40 px
+}
+/*
 .col-lg-4col-md-6col-sm-12 {
     width: 400 px;
     margin: 80 px;
@@ -34,3 +37,4 @@ background-color: chocolate;
     padding: 20px;
     background-color: black;
 }
+*/
