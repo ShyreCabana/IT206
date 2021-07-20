@@ -20,7 +20,6 @@ background-color: chocolate;
 .col-lg-4col-md-6col-sm-12 {
     width: 400 px;
     margin: 80 px;
-    border: 5 px solid darkred;
     padding: 20px;
     background-color: black;
 }
@@ -28,7 +27,9 @@ background-color: chocolate;
 .col-lg-4col-md-12col-sm-12 {
     width: 400 px;
     margin: 80 px;
-    border: 5 px solid darkred;
     padding: 20px;
     background-color: black;
+}
+.box {
+    border: 5 px solid rgb(144, 247, 11)
 }
