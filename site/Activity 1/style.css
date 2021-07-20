@@ -14,7 +14,7 @@ background-color: chocolate;
 .content {
     font-size: larger 25%;
     font-style: italic;
-    border: darksalmon;
+    border: 1px solid darksalmon;
     color: white
     
 }
