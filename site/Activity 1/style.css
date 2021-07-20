@@ -14,14 +14,18 @@ background-color: chocolate;
 .content {
     font-size: larger 25%;
     font-style: italic;
-    background-color: black;
+    background-color: rgb(151, 23, 23);
     color: white
     
 }
+
 .box {
-    border:3 px solid firebrick;
-    width: 300 px;
-    margin: 40 px
+    border: 5px solid green;
+    padding: 20px;
+    background-color: black;
+    width: 300px;
+    margin: 20px
+
 }
 /*
 .col-lg-4col-md-6col-sm-12 {
