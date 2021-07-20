@@ -14,7 +14,6 @@ background-color: chocolate;
 .content {
     font-size: larger 25%;
     font-style: italic;
-    border: 1px solid darksalmon;
     color: white
     
 }
@@ -22,6 +21,7 @@ background-color: chocolate;
 .col-lg-4col-md-6col-sm-12 {
     width: 400 px;
     margin: 80 px;
+    border: 1px solid darksalmon;
     padding: 20px;
     background-color: black;
 }
@@ -29,6 +29,7 @@ background-color: chocolate;
 .col-lg-4col-md-12col-sm-12 {
     width: 400 px;
     margin: 80 px;
+    border: 1px solid darksalmon;
     padding: 20px;
     background-color: black;
 }
