@@ -1,27 +1,27 @@
 h1 {
     color: blue;
-    font-size: 75%;
+    font-size: 75% larger;
 }
 
 .content-namename1 {
 color: darkred;
-font-size: 50%;
+font-size: 50% larger;
 border: 1px solid aqua;
 
 }
 .content-namename2 {
     color: darkred;
-    font-size: 50%;
+    font-size: 50%  larger;
     border: 1 px solid aqua;
 }
 .content-namename3 {
     color: darkred;
-    font-size: 50%;
+    font-size: 50% larger;
     border: 1 px solid aqua;
 }
 
 .content {
-    font-size: 25%;
+    font-size: 25% larger;
     color: white
 }
 
