@@ -20,9 +20,23 @@ background-color: chocolate;
 }
 
 .col-lg-4col-md-6_col-sm-12 {
-    width: 800px;
+    width: 100%;
     margin: 80px;
+    float: left;
     border: 2px solid green;
     padding: 20px;
     background-color: black;
+}
+
+@media (min-width: 992px) {
+    .col-lg-4col-md-6_col-sm-12 {
+        margin: 80px;
+        float: left;
+        border: 2px solid green;
+        padding: 20px;
+        background-color: black;
+    }
+    .col-lg-4col-md-6_col-sm-12 {
+        width: 25%;
+    }
 }
