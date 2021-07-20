@@ -26,17 +26,3 @@ background-color: chocolate;
     padding: 20px;
     background-color: black;
 }
-.col-lg-4col-md-6col-sm-12 {
-    width: 500px;
-    margin: 80px;
-    border: 2px solid green;
-    padding: 20px;
-    background-color: black;
-}
-.col-lg-4col-md-12col-sm-12 {
-    border:2px solid green;
-    width: 500px;
-    margin: 80px;
-    padding: 20px;
-    background-color: black;
-}
