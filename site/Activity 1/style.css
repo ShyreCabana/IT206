@@ -7,17 +7,20 @@ h1 {
 color: darkred;
 font-size: 50% larger;
 border: 1px solid aqua;
+background-color: chocolate;
 
 }
 .content-namename2 {
     color: darkred;
     font-size: 50%  larger;
     border: 1 px solid aqua;
+    background-color: chocolate;
 }
 .content-namename3 {
     color: darkred;
     font-size: 50% larger;
     border: 1 px solid aqua;
+    background-color: chocolate;
 }
 
 .content {
@@ -26,9 +29,9 @@ border: 1px solid aqua;
 }
 
 .box {
-    width: 300 px;
-    margin: 20 px;
-    border: 1 px solid yellowgreen;
+    width: 400 px;
+    margin: 40 px;
+    border: 3 px solid darkred;
     padding: 20px;
     background-color: black;
 }
