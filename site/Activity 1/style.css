@@ -4,7 +4,7 @@ h1 {
 }
 
 .content-name {
-color: darkred;
+color: yellowgreen;
 font-size: larger 50%;
 font-weight: bolder;
 border: 1px solid aqua;
@@ -18,7 +18,7 @@ background-color: chocolate;
     color: white
     
 }
-div {
+.box {
     border:3 px solid firebrick;
     width: 300 px;
     margin: 40 px
