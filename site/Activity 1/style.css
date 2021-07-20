@@ -14,7 +14,9 @@ background-color: chocolate;
 .content {
     font-size: larger 25%;
     font-style: italic;
+    border: darksalmon;
     color: white
+    
 }
 
 .col-lg-4col-md-6col-sm-12 {
@@ -29,7 +31,4 @@ background-color: chocolate;
     margin: 80 px;
     padding: 20px;
     background-color: black;
-}
-.box {
-    border: 5 px solid rgb(144, 247, 11)
 }
