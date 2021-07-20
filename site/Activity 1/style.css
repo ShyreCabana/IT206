@@ -14,12 +14,12 @@ background-color: chocolate;
 .content {
     font-size: larger 25%;
     font-style: italic;
-    border: 1px solid salmon;
     color: white
     
 }
 
 body {
+    border: 5 px solid green;
     background-color: black;
 }
 /*
