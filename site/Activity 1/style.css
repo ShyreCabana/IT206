@@ -3,24 +3,11 @@ h1 {
     font-size: 75% larger;
 }
 
-.content-namename1 {
+.content-name {
 color: darkred;
 font-size: 50% larger;
 border: 1px solid aqua;
 background-color: chocolate;
-
-}
-.content-namename2 {
-    color: darkred;
-    font-size: 50%  larger;
-    border: 1 px solid aqua;
-    background-color: chocolate;
-}
-.content-namename3 {
-    color: darkred;
-    font-size: 50% larger;
-    border: 1 px solid aqua;
-    background-color: chocolate;
 }
 
 .content {
