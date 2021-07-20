@@ -19,27 +19,24 @@ background-color: chocolate;
     
 }
 
-.box {
-    border: 5px solid green;
+.col-lg-4col-md-6_col-sm-12 {
+    width: 500px;
+    margin: 80px;
+    border: 2px solid green;
     padding: 20px;
     background-color: black;
-    width: 300px;
-    margin: 20px
-
 }
-/*
 .col-lg-4col-md-6col-sm-12 {
-    width: 400 px;
-    margin: 80 px;
-    border: 1px solid darksalmon;
+    width: 500px;
+    margin: 80px;
+    border: 2px solid green;
     padding: 20px;
     background-color: black;
 }
-
 .col-lg-4col-md-12col-sm-12 {
-    width: 400 px;
-    margin: 80 px;
+    border:2px solid green;
+    width: 500px;
+    margin: 80px;
     padding: 20px;
     background-color: black;
 }
-*/
