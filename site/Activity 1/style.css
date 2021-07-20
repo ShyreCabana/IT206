@@ -1,17 +1,19 @@
 h1 {
     color: blue;
-    font-size: 75% larger;
+    font-size: larger 75%;
 }
 
 .content-name {
 color: darkred;
-font-size: 50% larger;
+font-size: larger 50%;
+font-weight: bolder;
 border: 1px solid aqua;
 background-color: chocolate;
 }
 
 .content {
-    font-size: 25% larger;
+    font-size: larger 25%;
+    font-style: italic;
     color: white
 }
 
