@@ -17,10 +17,10 @@ background-color: chocolate;
     color: white
 }
 
-.box {
+.col-lg-4col-md-12col-sm-12 {
     width: 400 px;
-    margin: 40 px;
-    border: 3 px solid darkred;
+    margin: 80 px;
+    border: 5 px solid darkred;
     padding: 20px;
     background-color: black;
 }
